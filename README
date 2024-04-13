@@ -1,6 +1,12 @@
-## NeoVim Config 
+# NeoVim Config 
 
 Heavily 'inspired' by '0 to LSP: Neovim RC From Scratch' by ThePrimeagen.
+
+## Installation
+
+Clone into /home/$USER/.config/nvim
+
+## Features
 
 Adds:
     - Packer plugin manager
