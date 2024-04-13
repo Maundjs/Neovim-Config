@@ -9,12 +9,12 @@ Clone into /home/$USER/.config/nvim
 ## Features
 
 Adds:
-    - Packer plugin manager
-    - Telescope fuzzy finder
-    - Rose-pine colour scheme
-    - Treesitter highlighter
-    - Harpoon file switcher
-    - Undotree
-    - Fugitive git manager
-    - LSP-Zero and Mason
-    - Custom remaps and settings
+- Packer plugin manager
+- Telescope fuzzy finder
+- Rose-pine colour scheme
+- Treesitter highlighter
+- Harpoon file switcher
+- Undotree
+- Fugitive git manager
+- LSP-Zero and Mason
+- Custom remaps and settings
