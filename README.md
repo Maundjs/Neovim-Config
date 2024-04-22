@@ -16,3 +16,4 @@ Adds:
 - Undotree
 - LSP-Zero and Mason
 - Custom remaps and settings
+- Lualine status bar
